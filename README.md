@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=hello!;this+is+exciting)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @pranayteja-g
 - 👀 I’m interested in maths, computers and electronics
 - 🌱 I’m currently learning a bunch of programming languages.
